@@ -8,8 +8,10 @@ void bar(void)
 {
     int a = 97 << 24;
 }
+
 int main(void)
 {
     bar();
     foo();
+    return 0;
 }
