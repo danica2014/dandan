@@ -13,5 +13,7 @@ int main(void)
 {
     bar();
     foo();
+    
+    bar();
     return 0;
 }
